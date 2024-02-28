@@ -4,7 +4,6 @@ import PageHeading from "../../components/PageHeading/PageHeading"
 import { faEllipsis, faFaceSmile, faMagnifyingGlass, faPaperPlane, faPaperclip } from "@fortawesome/free-solid-svg-icons"
 import profile from "../../assets/profile-gen-bg-dark.jpg"
 import chatPeople from "../../assets/data.json"
-import "./chats.css"
 const Chats = () => {
   return (
     <div className='w-[100%] flex flex-wrap justify-between gap-8 lg:gap-0'>

@@ -1,5 +1,4 @@
 import PageHeading from "../../components/PageHeading/PageHeading"
-import "./calender.css"
 
 const Calender = () => {
   return (

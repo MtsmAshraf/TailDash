@@ -2,7 +2,6 @@ import { NavLink } from "react-router-dom"
 import logo from "../../assets/logoipsum-light.svg"
 import SideLink from "../SideLink/SideLink"
 import SideLinkList from "../SideLinkList/SideLinkList"
-import "./sidebar.css"
 import { faArrowLeft, faCalendar, faComment, faDashboard, faEnvelope, faListCheck, faPager, faUser } from "@fortawesome/free-solid-svg-icons"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 const SideBar = () => {

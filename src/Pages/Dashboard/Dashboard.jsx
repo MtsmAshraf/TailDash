@@ -1,6 +1,5 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import Card from "../../components/Card/Card"
-import "./dashboard.css"
 import { faEye } from "@fortawesome/free-regular-svg-icons"
 import { faArrowDown, faArrowUp, faBagShopping, faCartShopping, faL, faUserGroup } from "@fortawesome/free-solid-svg-icons"
 import googleLogo from "../../assets/google-logo-9808.png"
