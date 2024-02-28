@@ -1,0 +1,6 @@
+.chats-ul{
+    box-shadow: 0px -12px 24px -17px inset rgb(26, 25, 25);
+}
+.overflow-y-scroll::-webkit-scrollbar{
+    display: none;
+}
